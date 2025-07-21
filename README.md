@@ -7,7 +7,7 @@ My research sits at the intersection of clinical microbiology, pathogen genomics
 
 ### What I’m Currently Working On
 - **Hypervirulent _E. coli_ classification** using whole-genome sequencing (WGS), clustering, and expert-guided labeling.
-- **Pathogen genomics pipelines** with Snakemake for automated analysis.
+- **Bacterial WGS pipelines** with Nextflow for automated analysis.
 - **_Helicobacter pylori_ disease classification** using machine learning, integrating phylogeographic, genomic, and host metadata (age, sex, location).
 - **SNP mining in clinically relevant genes** and preparing ML-ready feature sets from variant data (VCFs).
 
