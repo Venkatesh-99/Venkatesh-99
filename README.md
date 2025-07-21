@@ -13,11 +13,10 @@ My research sits at the intersection of clinical microbiology, pathogen genomics
 
 ---
 
-### Interests & Goals
+### Interests
 - **Machine learning in microbial genomics**
 - **Genomic epidemiology** and pathogen surveillance
 - **AMR and virulence gene detection in large datasets**
-- **PhD** applications in computational biology, microbial genomics, or translational bioinformatics
 - Developing **scalable and reproducible pipelines** for pathogen analysis
 
 ---
